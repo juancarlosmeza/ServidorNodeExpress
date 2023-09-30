@@ -19,7 +19,7 @@ const db=mysql.createConnection({
     //port:"3306",
     //database:"sql10644248"
 
-    host: "www.db4free.net/phpMyAdmin",
+    host: "www.db4free.net/phpMyAdmin/",
     user:"juanca",
     password:"484000co",
     port:"3306",
